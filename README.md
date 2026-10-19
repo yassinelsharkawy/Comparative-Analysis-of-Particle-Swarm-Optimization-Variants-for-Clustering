@@ -226,4 +226,4 @@ The current repository provides a foundation for further experiments, but these 
 
 ## License
 
-This project was developed for academic and educational purposes.
+This project was developed for academic and educational and research purposes.
